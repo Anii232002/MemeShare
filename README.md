@@ -18,8 +18,14 @@ Technologies Used
 2. Use of System permissions for sharing memes
 
 Screenshots
+
+
 <img src="https://user-images.githubusercontent.com/90499826/156767335-ba14855a-def9-48ef-8225-5bea4300a245.png" width="400" height="500">
+
+
 <img src="https://user-images.githubusercontent.com/90499826/156767360-20f2ea7e-1060-4730-85b4-b3d464605b3a.png" width="400" height="500">
+
+
 <img src="https://user-images.githubusercontent.com/90499826/156767401-cc3dfb48-2d73-45ab-a62e-b3a33cc54a29.png" width="400" height="500">
 
 
